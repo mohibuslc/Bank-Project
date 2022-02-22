@@ -11,3 +11,29 @@ body{
      padding: 45px;
 
 }
+
+#transcation-area{
+
+    display: none;
+}
+.deposit {
+
+    background-color: slateblue;
+}
+.withdraw{
+
+    background-color: lightsalmon;
+
+}
+.balance{
+
+    background-color:orange;
+}
+
+.status{
+
+    margin: 20px;
+    color:white;
+    padding:20px;
+    border-radius: 10px;
+}
